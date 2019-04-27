@@ -1,7 +1,9 @@
 # Download list of keywords from a Google Sheet
 
 Simple script to:
+
 A: Access a Sheet from Google Drive
+
 B: Down contents of Sheet as list of keywords
 
 ## Prerequisites

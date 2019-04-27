@@ -1,5 +1,7 @@
 # Download list of keywords from a Google Sheet
 
+<img src="images/images/robot.jpg" width="100">
+
 Simple script to:
 
 A: Access a Sheet from Google Drive

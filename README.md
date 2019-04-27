@@ -1,4 +1,6 @@
-# Download list of keywords from a Google Sheet
+<div style="text-align:center">
+  # Download list of keywords from a Google Sheet
+</div>
 
 <p align="center">
   <img width=50% src="images/google-robot.jpg">

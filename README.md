@@ -1,6 +1,4 @@
-<align="center">
 # Download list of keywords from a Google Sheet
-<align="center">
 
 Simple script to:
 
@@ -72,6 +70,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Hat tip to https://github.com/burnash/gspread

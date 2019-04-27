@@ -1,4 +1,6 @@
+<align="center">
 # Download list of keywords from a Google Sheet
+<align="center">
 
 Simple script to:
 

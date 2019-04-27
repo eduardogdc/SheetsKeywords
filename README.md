@@ -1,6 +1,6 @@
 # Download list of keywords from a Google Sheet
 
-<center><img src="images/google-robot.jpg" width=50%></center>
+<img src="images/google-robot.jpg" width=50% style="display:block; margin-left:auto; margin-right:auto;" />
 
 Simple script to:
 

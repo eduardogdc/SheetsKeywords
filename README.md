@@ -1,7 +1,12 @@
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
 # Download list of keywords from a Google Sheet
-<center>
+<p class="aligncenter">
   <img src="images/google-robot.jpg" width=50% />
-</center>
+</p>
 
 Simple script to:
 

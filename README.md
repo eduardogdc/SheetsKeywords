@@ -18,6 +18,8 @@ B: Download contents of Sheet as list of keywords
 pip install gspread oauth2client
 ```
 
+4: Google Sheet with data
+
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running

@@ -24,6 +24,14 @@ pip install gspread oauth2client
 
 4: Google Sheet with data
 
+## Basic Usage
+
+Edit social_media_keywords.py as needed then run:
+
+```
+python social_media_keywords.py
+```
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/eduardogdc/SheetsKeywords/blob/master/LICENSE) file for details
